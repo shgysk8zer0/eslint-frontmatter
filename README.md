@@ -49,7 +49,7 @@ console.log(JSON.parse('{{ person | jsonify }}'));
 > them as strings, eg. `foo('{{ bar }}')`. You may use `parseInt` or `JSON.parse`
 > as necessary from there.
 
-### Example Config File
+## Example Config File
 
 ```js
 import frontmatter from 'eslint-plugin-frontmatter2';
