@@ -1,4 +1,7 @@
 node_modules/
+test/
+package.js
+plugin.js
 .github/
 .editorconfig
 .eslintignore
