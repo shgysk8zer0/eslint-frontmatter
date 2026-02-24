@@ -79,7 +79,7 @@
   "homepage": "https://github.com/shgysk8zer0/eslint-frontmatter#readme",
   "devDependencies": {
     "@rollup/plugin-json": "^6.1.0",
-    "eslint": "^9.0.0",
+    "eslint": "^10.0.2",
     "rollup": "^4.14.3"
   }
 }
