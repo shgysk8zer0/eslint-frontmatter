@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-frontmatter2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin to allow YAML frontmatter to be ignored by ESLint",
   "keywords": [
     "eslint",
@@ -79,7 +79,11 @@
   "homepage": "https://github.com/shgysk8zer0/eslint-frontmatter#readme",
   "devDependencies": {
     "@rollup/plugin-json": "^6.1.0",
-    "eslint": "^9.0.0",
-    "rollup": "^4.14.3"
+    "eslint": "^10.0.2",
+    "rollup": "^4.59.0"
+  },
+  "dependencies": {
+    "@eslint/js": "^10.0.1",
+    "globals": "^17.3.0"
   }
 }
